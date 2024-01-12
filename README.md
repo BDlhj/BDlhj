@@ -13,5 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
+
+## 🙌Introduction🙌
+
 [![BDlhj's GitHub stats](https://github-readme-stats.vercel.app/api?username=BDlhj&count_private=true&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+## 📝Problem Solving📝
+
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=akk808)](https://solved.ac/akk808/)
