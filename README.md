@@ -13,16 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=33652e&height=300&section=header&text=Be%20Dominant!!&fontSize=70&animation=twinkling)
-
 <div align=center>
 
-## 🙌Introduction🙌
-
-[![BDlhj's GitHub stats](https://github-readme-stats.vercel.app/api?username=BDlhj&count_private=true&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+## 💪Skills💪
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,git,github,aws&theme=light)](https://skillicons.dev)
 
 <br>
 
-## 📝Problem Solving📝
+<table border="0">
+  <tr>
+    <th>💡Stats💡</th>
+    <th>📝Problem Solving📝</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BDlhj&count_private=true&show_icons=true&theme=catppuccin_latte" />
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=akk808" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=akk808)](https://solved.ac/akk808/)
+<br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img 
+    src="https://render.gitanimals.org/farms/bdlhj"
+    width="800"
+    height="300"  
+  />
+</a>
